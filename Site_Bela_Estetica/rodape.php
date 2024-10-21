@@ -1,0 +1,1 @@
+<a href="painel.php"><img src="img/restrito.png" border="0" /></a>

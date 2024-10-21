@@ -1,0 +1,12 @@
+Excluido em: 17/09/2024 as 12:52:30
+Deletado Por:thales
+Id Usuario: 3
+Login: delete from usuarios where idusuario = 3
+----------------------------
+
+Excluido em: 17/09/2024 as 12:53:51
+Deletado Por:usuario
+Id Usuario: 1
+Login: delete from usuarios where idusuario = 1
+----------------------------
+
